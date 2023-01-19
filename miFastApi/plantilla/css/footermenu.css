@@ -1,0 +1,25 @@
+.footer{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: flex-end;
+}
+
+.btn-menu{
+	background-color: red;
+	height: 90px;
+	width: 90px;
+	text-align: center;
+	border-radius: 50%;
+}	
+
+.btn-menu.btn-buy{
+	background-color: green;
+	height: 125px;
+	width: 125px;
+	text-align: center;
+	border-radius: 50%;
+	box-shadow: 0px 0px 0px 0px solid;
+	font-size: 50px;
+	color: white;
+}	
